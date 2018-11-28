@@ -15,7 +15,8 @@ apartment_attributes = [
     country: "USA",
     manager_name: "Fred Barnes",
     phone: "619-999-9999",
-    hours: "4-6pm"
+    hours: "4-6pm",
+    description: "Master cleanse poutine snackwave adaptogen. Migas next level swag bitters, bicycle."
   },
   {
     street_a: "Sycamore",
@@ -26,7 +27,8 @@ apartment_attributes = [
     country: "USA",
     manager_name: "Julia",
     phone: "518-555-5555",
-    hours: "10-4pm"
+    hours: "10-4pm",
+    description: "Paleo williamsburg tote bag fingerstache vaporware, bicycle rights portland."
   },
   {
     street_a: "Broadway",
@@ -37,7 +39,8 @@ apartment_attributes = [
     country: "USA",
     manager_name: "Tony",
     phone: "908-777-7777",
-    hours: "9-6pm"
+    hours: "9-6pm",
+    description: "Humblebrag incididunt consequat, art party beard celiac tumblr truffaut."
   }
 ]
 
